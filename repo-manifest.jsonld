@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/astropy/astropy-healpix/commit/0e2455577192e10bc7a404ce9b55ca1fd3df928e",
       "git:hexsha": "0e2455577192e10bc7a404ce9b55ca1fd3df928e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.0.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.0.1",
+      "repolex:parsedAt": "2026-10-15T20:34:52.308071+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/astropy-healpix/commit/adffa736dca14acedc7755ca9fe4b6c26bf44784",
